@@ -1,4 +1,5 @@
-# Hi there! 👋 I'm Nifazur Rahman
+![Banner](https://i.ibb.co.com/h1Dw3Q4p/github-header-banner.png)
+## Hi there! 👋 I'm Nifazur Rahman
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;React+%26+Node.js+Enthusiast;From+Bangladesh+🇧🇩;Always+Learning+New+Technologies;Building+Amazing+Web+Applications" alt="Typing SVG" />
