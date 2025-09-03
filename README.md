@@ -1,4 +1,4 @@
-![Banner](https://i.ibb.co.com/h1Dw3Q4p/github-header-banner.png)
+![Banner](https://i.ibb.co.com/TBVHg0Qg/github-header-banne.jpg)
 ## Hi there! 👋 I'm Nifazur Rahman
 
 <div align="center">
